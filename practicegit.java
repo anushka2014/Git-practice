@@ -11,6 +11,7 @@ public  class practicegit {
 			if (max < a[i])
 			max= a[i];
 		}
+		System.err.println(max);
 		
 		return max;
 	}
